@@ -4,9 +4,9 @@ Hi 👋 My name is Eri Vera
 Web Developer
 -------------
 
-* 🌍  I'm based in Ecuador
+* 🌍  Estoy radicado en Ecuador
 * ✉️  You can contact me at [eriveraec@gmail.com](mailto:eriveraec@gmail.com)
-* 🧠  I'm learning R
+* 🧠  Estoy aprendiendo Astro
 
 ### Skills
 
